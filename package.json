@@ -1,0 +1,16 @@
+{
+"name": "187slot",
+"theme": "187slot",
+"version": "4.10.10",
+"description": "187slot ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
+"keywords": [
+"187slot",
+"187slot เครดิตฟรี",
+"187slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/187slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
